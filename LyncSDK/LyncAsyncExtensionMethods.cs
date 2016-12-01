@@ -1,11 +1,9 @@
-﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.Lync.Model.Conversation;
 using Microsoft.Lync.Model.Conversation.AudioVideo;
 using Microsoft.Lync.Model;
 
-// ReSharper disable once CheckNamespace
 namespace LyncAsyncExtensionMethods
 {
     internal static class ModalityMethods
